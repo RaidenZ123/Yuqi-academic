@@ -20,7 +20,7 @@ bio: My research interests include artificial intelligence, recommendation syste
 interests:
   - Robust and Fairness Machine Learning
   - Recommendation System and Information Retrieval
-  - Internet of Things Data Mining and Application
+  - Data Mining and Application for Internet of Things and City Intelligence
 
 # Education to show in About widget
 education:
@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Raiden Zuo is a bachelor student of computer science at the Niubi AI Lab. His research interests include robust and fairness machine learning, recommendation system and information retrieval, data mining and application for internet of things and city intelligence. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
