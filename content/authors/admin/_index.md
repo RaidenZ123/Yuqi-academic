@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raiden Zuo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student from Africa
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,24 +14,22 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, recommendation system and Iot technology.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Recommendation System
   - Information Retrieval
+  - IoT Data Processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: PhD in Computer Science
+      institution: Notre Dame University
+      year: 2021
+    - course: BSc in Computer Science
       institution: Massachusetts Institute of Technology
       year: 2008
 
