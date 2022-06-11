@@ -10,7 +10,7 @@ role: Student from Africa
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Niubi University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,10 +18,9 @@ bio: My research interests include artificial intelligence, recommendation syste
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Recommendation System
-  - Information Retrieval
-  - IoT Data Processing
+  - Robust and Fairness Machine Learning
+  - Recommendation System and Information Retrieval
+  - Internet of Things Data Mining and Application
 
 # Education to show in About widget
 education:
