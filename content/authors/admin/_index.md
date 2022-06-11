@@ -28,10 +28,10 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Notre Dame University
-      year: 2021
+      year: 2022
     - course: BSc in Computer Science
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
